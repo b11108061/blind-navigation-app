@@ -1,3 +1,10 @@
+
+streamlit
+opencv-python
+ultralytics
+pyttsx3
+speechrecognition
+av
 streamlit
 opencv-python
 ultralytics
